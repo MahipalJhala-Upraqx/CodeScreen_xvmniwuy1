@@ -1,0 +1,6 @@
+{
+  "name": "logo-transformer",
+  "dependencies": {
+    "sharp": "^0.27.0"
+  }
+}
